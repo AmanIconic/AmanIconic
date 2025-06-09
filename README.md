@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Aman Yadav <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
+
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
